@@ -1,7 +1,7 @@
 Awesome-NUAA-CS-Kaoyan
 =================
 
- [![github](https://img.shields.io/github/stars/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan.svg)](https://github.com/nuaa-cs-kaoyan/awesome-nuaa-cs-kaoyan) 
+ [![github]
 
    * [<strong>Awesome-NUAA-CS-Kaoyan</strong>](#Awesome-NUAA-CS-Kaoyan)
       * [Inspiration](#inspiration)
@@ -39,17 +39,6 @@ Awesome-NUAA-CS-Kaoyan
 
 ## About me
 
-<div align="left">
-    <img src="/assets/321556185.jpg" width=20% height=20% />
-    <img src="/assets/微信.jpg" width=20% height=20% />
-    <img src="/assets/21考研群.jpg" width=20% height=20% />
-    <img src="/assets/微店.png" width=20% height=20% />
-    <img src="/assets/拼多多.png" width=20% height=20% />
-    <img src="/assets/王道论坛.png" width=20% height=20% />
-    <img src="/assets/Github.png" width=20% height=20% />
-    <img src="/assets/大大卷点点心の二维码.png" width=20% height=20% />   
-</div>
-
 
 
 * **熊二学长(个人经营) / 17级南航计算机高分学长(417分) / QQ: 321556185** 
@@ -61,20 +50,11 @@ Awesome-NUAA-CS-Kaoyan
   * [南航18级计算机复试面试题和面试问答](http://www.cskaoyan.com/thread-649395-1-1.html)
   * [南航计算机考研真题答案!没错!是答案!答案!答案!](http://www.cskaoyan.com/thread-643443-1-1.html) 
   * Others
-* **考研专业课资料地址**
-  * 微店：https://k.weidian.com/a0lQclaM （[21届南航计算机考研资料](https://k.weidian.com/a0lQclaM )）
-  * 拼多多: https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251
+
 * **南航计算机考研辅导历史**
   * 2017-02 考研出分，总分 400+，专业课成绩 135+
   * 2017-04 在[王道论坛](http://www.cskaoyan.com/thread-642848-1-1.html)分享考研经验，并开始编写南航计算机考研资料
-  * 2017-05 [18级南航计算机考研辅导资料](https://weidian.com/item.html?itemID=2105222705&ifr=itemdetail&wfr=c) 编写完成，开始辅导 18 级南航计算机考研
-  * 2017-12 18 考研学生反馈，专业课资料的必备考点，几乎全部命中了真题的简单题，好评如潮
-  * 2018-03 [19级南航计算机考研辅导资料](https://weidian.com/item.html?itemID=2242029324&ifr=itemdetail&wfr=c) 编写完成，开始辅导 19 级南航计算机考研
-  * 2018-12 19 考研学生反馈，专业课资料的必备考点，再次命中多道真题的简单题，再次好评如潮
-  * 2019-02 [20级南航计算机考研辅导资料](https://k.weidian.com/a0lQclaM) 编写完成，开始辅导 20级南航计算机考研
-  * 2019-10 开始编写 829 计算机组成原理的解析
-  * 2020-02 面向 2021 届的 829 专业课资料编写完成，加入计算机组成原理解析
-
+ 
 ## 南航计算机招生情况/复录比
 
 ![历年录取情况统计](assets/1585198885090.png)
@@ -144,7 +124,6 @@ Awesome-NUAA-CS-Kaoyan
 
 * **专业课复习资料**
 
-  一套靠谱的专业课资料：[南航计算机考研复习资料](https://mobile.yangkeduo.com/goods2.html?goods_id=86968936251)
 
 * **教材配套习题集**
 
